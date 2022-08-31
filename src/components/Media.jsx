@@ -13,7 +13,7 @@ export default (props) => {
       <div>
         <span>
           <span>Resultado: </span>
-          <strong>{ (max + min) / 2 }</strong>
+          <strong>{ 10 }</strong>
         </span>
       </div>
     </Card>
